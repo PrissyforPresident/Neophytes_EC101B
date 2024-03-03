@@ -20,7 +20,7 @@ This project wouldn't have been possible without the dedication and hard work of
 
 🙋🏻‍♀️ **Sneha Roy**
 
-🙋🏻‍♂️ **Suman Chakraborty**
+🙋🏻‍♂️ **Suman Chakroborty**
 
 🙋‍♀️ **Tanushree Das**
 
