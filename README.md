@@ -71,3 +71,14 @@ Stay connected with Gourmet Go for the latest news, updates, and mouthwatering f
 Thank you for choosing Gourmet Go for all your culinary cravings. Get ready to embark on a gastronomic journey like never before! 
 
 The Gourmet Go Team 🍽️💫
+
+
+# Meet the Neophytes 🥂
+
+🙋 **Uttiyo Modak** 
+
+🙋🏻‍♀️ **Sneha Roy**
+
+🙋🏻‍♂️ **Suman Chakraborty**
+
+🙋‍♀️ **Tanushree Das**
