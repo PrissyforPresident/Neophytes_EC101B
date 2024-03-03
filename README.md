@@ -32,18 +32,18 @@ Feel free to explore the rest of the website!
 
 Welcome to Gourmet Go, where delicious meals are just a click away! Whether you're looking for comfort food, exotic flavours or healthy options, we've got you covered. Our easy-to-use website makes ordering your favourite meals quick and convenient. Gourmet Go is your culinary companion, bringing the world's cuisines to your doorstep with speed and convenience.
 
----
+
 # Why choose Gourmet Go?
 
- 🌎 **Curated Selection**: Discover a carefully curated selection of restaurants offering a diverse range of cuisines, ensuring there's something for every taste bud.
+🌎 **Curated Selection**: Discover a carefully curated selection of restaurants offering a diverse range of cuisines, ensuring there's something for every taste bud.
 
 🚀 **Express Delivery**: We understand that hunger can't wait. Our efficient delivery system ensures your food arrives hot and fresh in no time.
 
- 🛒 **Intuitive Ordering**: Our user-friendly platform makes ordering a breeze. Simply browse, select, and customize your meal with just a few taps.
+🛒 **Intuitive Ordering**: Our user-friendly platform makes ordering a breeze. Simply browse, select, and customize your meal with just a few taps.
 
- 🔒 **Secure Transactions**: Rest assured knowing that your payments are safe and secure. We prioritize the protection of your personal and financial information.
+🔒 **Secure Transactions**: Rest assured knowing that your payments are safe and secure. We prioritize the protection of your personal and financial information.
 
----
+
 # Getting Started 🤔
 
 1. **Sign Up**: Create an account to unlock exclusive deals, save your favorite restaurants, and streamline your ordering experience.
@@ -56,7 +56,7 @@ Welcome to Gourmet Go, where delicious meals are just a click away! Whether you'
 
 5. **Enjoy Your Meal**: Once your order arrives, it's time to dig in and savor every delicious bite. Bon appétit!
 
----
+
 # Get in touch 🧑‍💻
 
 At Gourmet Go, we're constantly striving to serve you better. Your feedback is invaluable to us as it helps us enhance your culinary experience. Please take a moment to share your thoughts and  suggestions with us. Our customer support system is here to help. Reach out to us via email at support@gourmetgo.com
@@ -87,7 +87,6 @@ At Gourmet Go, we're constantly striving to serve you better. Your feedback is i
 
 [Your Comments]
 
-----
 # Stay connected 🤳
 
 Stay connected with Gourmet Go for the latest news, updates, and mouthwatering food photos:
