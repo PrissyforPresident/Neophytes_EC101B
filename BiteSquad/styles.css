@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Berlin', serif, sans-serif;
-    background-image: url('bg.jpg');
+    background-image: url('background.jpg');
     background-position: center;
     background-size: cover;
     overflow: none;
