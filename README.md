@@ -16,7 +16,7 @@ Welcome to Gourmet Go, where delicious meals are just a click away! Whether you'
 
 # Getting Started 🤔
 
-1. **Sign Up**: Create an account to unlock exclusive deals, save your favorite restaurants, and streamline your ordering experience.
+1. **Sign Up**: Create an account to unlock exclusive deals, save your favourite restaurants, and streamline your ordering experience.
 
 2. **Browse Menus**: Explore menus from a variety of restaurants and discover new dishes to tantalize your taste buds.
 
@@ -45,7 +45,7 @@ At Gourmet Go, we're constantly striving to serve you better. Your feedback is i
 - [ ] Average
 - [ ] Needs Improvement
 
-**What did you enjoy most about your FoodieFuel experience?**
+**What did you enjoy most about your Gourmet Go experience?**
 
 [Your Answer]
 
