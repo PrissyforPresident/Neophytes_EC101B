@@ -1,6 +1,6 @@
 # Gourmet Go 🤌
 
-Welcome to Gourmet Go, where delicious meals are just a click away! Whether you're comfort food, exotic flavours or healthy options, we've got you covered. Our easy-to-use website and mobile app make ordering your favorite meals quick and convenient. Gourmet Go is your culinary companion, bringing the world's cuisines to your doorstep with speed and convenience.
+Welcome to Gourmet Go, where delicious meals are just a click away! Whether you're comfort food, exotic flavours or healthy options, we've got you covered. Our easy-to-use website and mobile app make ordering your favorite meals quick and convenient. Gourmet Go is your culinary companion, bringing the world's cuisines to your doorstep with speed and convenience. 
 
 ---
 # Why choose Gourmet Go?
