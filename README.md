@@ -39,7 +39,7 @@ At Gourmet Go, we're constantly striving to serve you better. Your feedback is i
 
 **Order Number:** [Order Number]
 
-**How would you rate your overall experience with FoodieFuel?**
+**How would you rate your overall experience with Gourmet Go?**
 - [ ] Excellent
 - [ ] Good
 - [ ] Average
