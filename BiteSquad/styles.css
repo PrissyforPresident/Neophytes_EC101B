@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 body {
-    font-family: 'Berlin', serif, sans-serif;
+    font-family: 'BERLIN', serif, sans-serif;
     background-image: url('background.jpg');
     background-position: center;
     background-size: cover;
     overflow: none;
     
-    width: auto;
+    width: 1200px;
     margin: 0;
-    padding: 0;
+    padding: 125px;
 }
 
 header {
@@ -22,14 +22,14 @@ header {
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    padding: 10px;
-    margin-left: 20px;
+    padding: 0;
+    margin-right: 50px;
 }
 
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 100px;
 }
 
 nav ul li {
@@ -97,10 +97,11 @@ nav ul li a {
 
 .card {
     width: 300px;
-    border: 1px solid #ccc;
+    border: .5px solid #ccc;
     background-color: #fff;
-    border-radius: 5px;
-    padding: 10px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 100px;
     /* margin: 10px; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -117,6 +118,7 @@ nav ul li a {
 }
 
 .card h3 {
+    
     color: #e28413;
     font-weight: 800;
     text-transform: uppercase;
@@ -133,8 +135,8 @@ nav ul li a {
 }
 
 footer {
-    background-color: #023047;
-    color: #fff;
+    background-color: #fdfeff;
+    color: #0f2fe3ec;
     text-align: center;
     padding: 20px;
     bottom: 0;
