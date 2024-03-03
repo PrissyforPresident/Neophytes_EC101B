@@ -9,7 +9,7 @@ body {
     
     width: 1200px;
     margin: 0;
-    padding: 125px;
+    padding: 150px;
 }
 
 header {
@@ -99,9 +99,8 @@ nav ul li a {
     border: .5px solid #ccc;
     background-color: #fff;
     border-radius: 10px;
-    padding-left: 30px;
+    padding: 40px;
     margin-top: 100px;
-    padding-right: 30px;
     /* margin: 10px; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -135,7 +134,7 @@ nav ul li a {
 }
 
 footer {
-    background-color: #fdfeff;
+    background-color: #000000;
     color: #0f2fe3ec;
     text-align: center;
     padding: 20px;
