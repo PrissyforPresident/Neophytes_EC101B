@@ -6,7 +6,7 @@ Welcome to Gourmet Go, where delicious meals are just a click away! Whether you'
 # Why choose Gourmet Go?
 
  🌎 **Curated Selection**: Discover a carefully curated selection of restaurants offering a diverse range of cuisines, ensuring there's something for every taste bud.
-
+ 
 🚀 **Express Delivery**: We understand that hunger can't wait. Our efficient delivery system ensures your food arrives hot and fresh in no time.
 
  🛒 **Intuitive Ordering**: Our user-friendly platform makes ordering a breeze. Simply browse, select, and customize your meal with just a few taps.
