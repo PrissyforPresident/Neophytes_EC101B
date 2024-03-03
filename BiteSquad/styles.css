@@ -7,7 +7,7 @@ body {
     background-size: cover;
     overflow: none;
     
-    width: 1200px;
+    width: auto;
     margin: 0;
     padding: 150px;
 }
@@ -134,7 +134,7 @@ nav ul li a {
 }
 
 footer {
-    background-color: #000000;
+    background-color: #f9f9f9;
     color: #0f2fe3ec;
     text-align: center;
     padding: 20px;
