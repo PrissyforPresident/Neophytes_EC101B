@@ -58,7 +58,7 @@ At Gourmet Go, we're constantly striving to serve you better. Your feedback is i
 [Your Comments]
 
 ----
-# Stay connected 
+# Stay connected 🤳
 
 Stay connected with Gourmet Go for the latest news, updates, and mouthwatering food photos:
 
