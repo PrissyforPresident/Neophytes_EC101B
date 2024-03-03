@@ -13,7 +13,7 @@ Welcome to Gourmet Go, where delicious meals are just a click away! Whether you'
 
  🔒 **Secure Transactions**: Rest assured knowing that your payments are safe and secure. We prioritize the protection of your personal and financial information.
 
----
+
 # Getting Started 🤔
 
 1. **Sign Up**: Create an account to unlock exclusive deals, save your favorite restaurants, and streamline your ordering experience.
