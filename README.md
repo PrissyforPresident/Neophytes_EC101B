@@ -1,4 +1,4 @@
-# Project overview 
+# Project overview Desktop based
 
 We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Listed below are a few elements we've worked on for this project:
 
@@ -21,6 +21,8 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Li
 ![Picsart_24-03-04_14-03-49-400](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/ed3f8b4f-cf37-42c6-bae1-dadce441c4a4)
 
 7. **Images**: Relevant food images have been added to enhance the beauty of the template alongside maintaining consistency in design elements and color schemes to create a cohesive user experience. Image source: Pinterest.
+
+Ps. Our entry is desktop based. 
 
 # Meet the Neophytes (Batch '27) 🥂
 
