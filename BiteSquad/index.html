@@ -13,7 +13,23 @@
     
     <section class="hero">
         <h1>Delivering Deliciousness to Your Doorstep!</h1>
-        <h2>GOURMET GO</h2>
+        <title>GOURMET GO</title>
+        <style>
+          @keyframes titleAnimation {
+            0% { transform: translateY(-100px); opacity: 0; }
+            100% { transform: translateY(0); opacity: 1; }
+          }
+          .title {
+            background: transparent;
+            font-size: 100px;
+            color:#fff;
+            text-align: center;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            animation: titleAnimation 2s ease-in-out backwards;
+          }
+        </style>
+        <h1 class="title">GOURMET GO</h1>
+        </body>
         <p>Your cravings, our mission..!!🤌🏻</p>
         <a href="#" class="btn">Order Now</a>
     </section>
