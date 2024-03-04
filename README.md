@@ -6,16 +6,21 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Li
 
 2. **Logo**: We've designed our logo from scratch using the ibisPaintX software. 
 
+![icon](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/d3613a50-b916-4857-8900-07a63f0a8ce7)
+
 3. **Tabs**: To make our project seem even more user-friendly we've added a "Sign-up/Sign-in" tab alongside the "Order now" tab.
 
 4. **Typography**: We've utilized typography utilities to ensure consistent and visually appealing text styling and readability. We tried our level best to optimize the user experience by considering factors such as font hierarchy, accessibility, and responsiveness across different devices.
+
+![Picsart_24-03-04_13-56-38-085](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/0a4cd7ce-e515-47a9-ad46-cb7207cac1d2)
    
 5. **Background**: To beguile the users in, we've modified the template background heedfully ensuring that the website background does not overshadow the content and maintains readability across various devices and screen sizes. Image source: Pinterest.
 
 6. **Bootstrap**: Further alterations have been made to elevate the significance of the topic, such as the showcased food items and their corresponding slogans and price tags as needed to align with the project's design requirements and branding guidelines.
 
+![Picsart_24-03-04_14-03-49-400](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/ed3f8b4f-cf37-42c6-bae1-dadce441c4a4)
+
 7. **Images**: Relevant food images have been added to enhance the beauty of the template alongside maintaining consistency in design elements and color schemes to create a cohesive user experience. Image source: Pinterest.
-![readme ss (1)](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/cbc94040-43ac-4bd1-943a-cc5a447cc8f8)
 
 # Meet the Neophytes 🥂
 
