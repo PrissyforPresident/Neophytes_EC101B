@@ -1,6 +1,6 @@
 # Project overview 
 
-We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap!
+We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Listed below are a few elements we've worked on for this project:
 
 1. **Title**: We've made basic modifications in font style, colour and size. To personalize, we've customised the tagline in such a way that resonates with the target audience, capturing their attention and sparking curiosity about the website's offerings.
 
