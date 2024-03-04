@@ -22,17 +22,17 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Li
 
 7. **Images**: Relevant food images have been added to enhance the beauty of the template alongside maintaining consistency in design elements and color schemes to create a cohesive user experience. Image source: Pinterest.
 
-# Meet the Neophytes 🥂
+# Meet the Neophytes (Batch '27) 🥂
 
 This project wouldn't have been possible without the dedication and hard work of each and every team member.
 
 🙋 **Uttiyo Modak** 
 
+🙋‍♀️ **Tanushree Das**
+
 🙋🏻‍♀️ **Sneha Roy**
 
 🙋🏻‍♂️ **Suman Chakroborty**
-
-🙋‍♀️ **Tanushree Das**
 
 In addition, we extend our special thanks to our seniors for their invaluable guidance and for being wholesome as ever. Love lots! 
 
