@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 body {
-    font-family:Cambria;
+    font-family: 'Courier New', Courier, monospace;
     background-image: url('background.jpg');
     background-position: center;
     background-size: cover;
@@ -71,7 +71,6 @@ nav ul li a {
     margin-bottom: 40px;
     
 }
-
 .hero a {
     padding: 20px 50px;
     background-color: #FB8500;
@@ -82,6 +81,18 @@ nav ul li a {
     font-weight: 800;
     text-transform: uppercase;
 }
+.hero b{
+    padding: 20px 50px;
+    width: fit-content;
+    background-color: #FDF0D5;
+    border-radius: 30px;
+    text-decoration: none;
+    color:#FB8500;
+    font-size: large;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
 
 .featured {
     display: flex;
