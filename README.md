@@ -6,7 +6,7 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Li
 
 2. **Logo**: We've designed our logo from scratch using the ibisPaintX software. 
 
-![icon](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/d3613a50-b916-4857-8900-07a63f0a8ce7)
+![Picsart_24-03-04_14-20-26-742 (1)](https://github.com/PrissyforPresident/Neophytes_EC101B/assets/132652284/06bc1543-ac43-4d2c-b95a-506c670f7e85)
 
 3. **Tabs**: To make our project seem even more user-friendly we've added a "Sign-up/Sign-in" tab alongside the "Order now" tab.
 
