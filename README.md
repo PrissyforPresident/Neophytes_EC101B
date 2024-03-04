@@ -102,3 +102,5 @@ Stay connected with Gourmet Go for the latest news, updates, and mouthwatering f
 🖇️ Facebook: [@GourmetGo](https://www.facebook.com/GourmetGo)
 
 Thank you for choosing Gourmet Go for all your culinary cravings. Get ready to embark on a gastronomic journey like never before! 
+
+**Organised by**: https://www.linkedin.com/company/sceceaot/
