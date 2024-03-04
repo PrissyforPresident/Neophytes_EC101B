@@ -1,4 +1,4 @@
-# Project overview Desktop based
+# Project overview
 
 We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap! Listed below are a few elements we've worked on for this project:
 
