@@ -10,7 +10,7 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap!
 
 4. **Typography**: We've utilized typography utilities to ensure consistent and visually appealing text styling and readability.We tried our level best to optimize the user experience by considering factors such as font hierarchy, accessibility, and responsiveness across different devices.
    
-5. **Background**: To beguile the users in, we've modified the template background heedfully. Ensure that the website background does not overshadow the content and maintains readability across various devices and screen sizes. Image source: Pinterest 
+5. **Background**: To beguile the users in, we've modified the template background heedfully ensuring that the website background does not overshadow the content and maintains readability across various devices and screen sizes. Image source: Pinterest 
 
 6. **Bootstrap**: Further alterations have been made to elevate the significance of the topic, such as the showcased food items and their corresponding slogans and price tags as needed to align with the project's design requirements and branding guidelines.
 
