@@ -2,17 +2,19 @@
 
 We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap!
 
-1. **Title**: We've done basic modifications in font style and size. To personalize, we've customised the tagline as well.
+1. **Title**: We've made basic modifications in font style, colour and size. To personalize, we've customised the tagline in such a way that resonates with the target audience, capturing their attention and sparking curiosity about the website's offerings.
 
-2. **Logo**: We've designed our logo from scratch using the application, ibisPaintX.
+2. **Logo**: We've designed our logo from scratch using the ibisPaintX software. 
 
-3. **Tabs**: To make our project seem more user-friendly we've added a "Sign-up/Sign-in" tab alongside the "Order now" tab.
+3. **Tabs**: To make our project seem even more user-friendly we've added a "Sign-up/Sign-in" tab alongside the "Order now" tab.
 
-4. **Background**: To beguile the users in, we've modified the template background heedfully. Image source: Pinterest 
+4. **Typography**: We've utilized typography utilities to ensure consistent and visually appealing text styling and readability.We tried our level best to optimize the user experience by considering factors such as font hierarchy, accessibility, and responsiveness across different devices.
+   
+5. **Background**: To beguile the users in, we've modified the template background heedfully. Ensure that the website background does not overshadow the content and maintains readability across various devices and screen sizes. Image source: Pinterest 
 
-5. **Bootstrap**: Further alterations have been made to elevate the significance of the topic, such as the showcased food items and their corresponding slogans and price tags.
+6. **Bootstrap**: Further alterations have been made to elevate the significance of the topic, such as the showcased food items and their corresponding slogans and price tags as needed to align with the project's design requirements and branding guidelines.
 
-6. **Images**: Relevant food images have been added to enhance the beauty of the template. Image source: Pinterest
+7. **Images**: Relevant food images have been added to enhance the beauty of the template alongside maintaining consistency in design elements and color schemes to create a cohesive user experience. Image source: Pinterest.
 
 # Meet the Neophytes 🥂
 
@@ -100,4 +102,3 @@ Stay connected with Gourmet Go for the latest news, updates, and mouthwatering f
 🖇️ Facebook: [@GourmetGo](https://www.facebook.com/GourmetGo)
 
 Thank you for choosing Gourmet Go for all your culinary cravings. Get ready to embark on a gastronomic journey like never before! 
-
