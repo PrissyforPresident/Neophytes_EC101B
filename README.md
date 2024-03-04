@@ -8,7 +8,7 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap!
 
 3. **Tabs**: To make our project seem even more user-friendly we've added a "Sign-up/Sign-in" tab alongside the "Order now" tab.
 
-4. **Typography**: We've utilized typography utilities to ensure consistent and visually appealing text styling and readability.We tried our level best to optimize the user experience by considering factors such as font hierarchy, accessibility, and responsiveness across different devices.
+4. **Typography**: We've utilized typography utilities to ensure consistent and visually appealing text styling and readability. We tried our level best to optimize the user experience by considering factors such as font hierarchy, accessibility, and responsiveness across different devices.
    
 5. **Background**: To beguile the users in, we've modified the template background heedfully ensuring that the website background does not overshadow the content and maintains readability across various devices and screen sizes. Image source: Pinterest 
 
