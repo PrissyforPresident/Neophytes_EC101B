@@ -6,11 +6,13 @@ We Neophytes are absolutely thrilled to welcome you to our entry for DevWrap!
 
 2. **Logo**: We've designed our logo from scratch using the application, ibisPaintX.
 
-3. **Background**: To beguile the users in, we've modified the template background heedfully. Image source: Pinterest 
+3. **Tabs**: To make our project seem more user-friendly we've added a "Sign-up/Sign-in" tab alongside the "Order now" tab.
 
-4. **Bootstrap**: Further alterations have been made to elevate the significance of the topic, such as the showcased food items and their corresponding slogans and price tags.
+4. **Background**: To beguile the users in, we've modified the template background heedfully. Image source: Pinterest 
 
-5. **Images**: Relevant food images have been added to enhance the beauty of the template. Image source: Pinterest
+5. **Bootstrap**: Further alterations have been made to elevate the significance of the topic, such as the showcased food items and their corresponding slogans and price tags.
+
+6. **Images**: Relevant food images have been added to enhance the beauty of the template. Image source: Pinterest
 
 # Meet the Neophytes 🥂
 
